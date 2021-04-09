@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Pixabay-react-api/static/js/main.08e62820.chunk.js",
+    "main.js.map": "/Pixabay-react-api/static/js/main.08e62820.chunk.js.map",
+    "runtime-main.js": "/Pixabay-react-api/static/js/runtime-main.c116b368.js",
+    "runtime-main.js.map": "/Pixabay-react-api/static/js/runtime-main.c116b368.js.map",
+    "static/js/2.5e13cabc.chunk.js": "/Pixabay-react-api/static/js/2.5e13cabc.chunk.js",
+    "static/js/2.5e13cabc.chunk.js.map": "/Pixabay-react-api/static/js/2.5e13cabc.chunk.js.map",
+    "index.html": "/Pixabay-react-api/index.html",
+    "static/js/2.5e13cabc.chunk.js.LICENSE.txt": "/Pixabay-react-api/static/js/2.5e13cabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c116b368.js",
+    "static/js/2.5e13cabc.chunk.js",
+    "static/js/main.08e62820.chunk.js"
+  ]
+}
